@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/"
 url: "https://sylhare.github.io"
-title: Type on Strap # site's title
+title: Vu Nguyen # site's title
 description: "Vu Nguyen, University of Science, Vietnam National Univ. - HCMC" # used by search engines
 
 
