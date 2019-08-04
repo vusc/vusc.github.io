@@ -2,13 +2,13 @@
 baseurl: "/"
 url: "https://sylhare.github.io"
 title: Vu Nguyen # site's title
-description: "Vu Nguyen, University of Science, Vietnam National Univ. - HCMC" # used by search engines
+description: "University of Science, Vietnam National Univ. - HCMC" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Vu  # blog's title
+  title: Vu Nguyen # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
