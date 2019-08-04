@@ -8,7 +8,7 @@ description: "Vu Nguyen, University of Science, Vietnam National Univ. - HCMC" #
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: Vu  # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
