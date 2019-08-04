@@ -2,7 +2,7 @@
 layout: page
 title: publication
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
+---feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Test]
 ---
 
